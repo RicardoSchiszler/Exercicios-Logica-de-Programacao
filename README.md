@@ -1,0 +1,1 @@
+Exercícios realizados durante o curso de Lógica de Programação do Gustavo Guanabara (CURSO EM VÍDEO).
